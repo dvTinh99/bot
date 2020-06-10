@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!--  -->
+<category><pattern>HỒ SƠ ĐĂNG KÍ *</pattern>
+<template>Hồ sơ đăng ký bao gồm:
+- Đơn đăng ký dự tuyển theo mẫu của Trường điền đầy đủ thông tin và có dán ảnh 4x6.
+- Bản sao (không cần công chứng) chứng minh thư nhân dân/ căn cước công dân hoặc hộ chiếu còn giá trị sử dụng.
+- Bản sao (không cần công chứng) học bạ THPT lớp 10, 11, và 12.
+Đối với thí sinh nộp hồ sơ trước kỳ thi THPT Quốc gia, chỉ cần nộp bản sao học bạ lớp 10, 11 và bảng điểm lớp 12 (bảng điểm có đóng dấu, xác nhận của của trường THPT đang theo học)
+- Bản sao giấy báo kết quả thi THPT Quốc gia có điểm ba (3) trong số năm (5) môn: Toán, Lý, Hóa, Sinh, Tiếng Anh đạt điểm sàn của Bộ Giáo dục và Đào tạo và theo quy định của trường (đối với thí sinh đăng ký dự tuyển sau kỳ thi THPT Quốc gia và thí sinh tốt nghiệp THPT trước năm 2019).
+- Bài luận thể hiện nguyện vọng
+- Chứng chỉ đánh giá năng lực Tiếng Anh (IELTS, TOEFL), bằng khen, bằng chứng nhận thành tích học tập, học bổng, thư giới thiệu, v.v. (nếu có).</template>
+</category>
+</aiml>

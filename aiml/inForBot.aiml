@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!--  -->
+<category><pattern>HELLO ALICE</pattern>
+<template>Hello User</template>
+</category>
+<category><pattern>HỌC PHÍ *</pattern>
+<template>Hệ thống đào tạo tín chỉ với 1tc/2.000.000 và  tăng 16% hằng năm</template>
+</category>
+<category><pattern>ĐIỂM ĐẦU VÀO CỦA NGÀNH CÔNG NGHỆ THÔNG TIN</pattern>
+<template>CNTT : 18
+	CNTT(đặc thù) :19
+	QTKD:17</template>
+</category>
+<category><pattern>TRƯỜNG CÓ BAO NHIÊU HÌNH THỨC TUYỂN SINH</pattern>
+<template>1.Xét tuyển học bạ
+	2.Xét tuyển thông qua kì thi tốt nghiệp phổ thông</template>
+</category>
+<category><pattern>NÓI THEO TÔI *</pattern>
+<template><star/></template>
+</category>
+<category><pattern>TRƯỜNG CÓ MẤY ĐỢT XÉT TUYỂN HẰNG NĂM</pattern>
+<template>Theo hình thức trực tiếp, SICT có 4 đợt tuyển sinh, trong đó, 3 đợt trước kỳ thi THPT Quốc gia và 1 đợt sau kỳ thi THPT Quốc gia.
+	Theo cổng thông tin thi tuyển sinh của Bộ Giáo dục và Đào tạo: theo lịch của  Bộ Giáo dục và Đào tạo</template>
+</category>
+<category><pattern>TIÊU CHÍ TUYỂN SINH THEO HÌNH THỨC TRỰC TIẾP CHO CÁC KỲ TUYỂN SINH TRƯỚC VÀ SAU KỲ THI THPT QUỐC GIA CÓ KHÁC NHAU KHÔNG?</pattern>
+<template>Các thí sinh ứng tuyển vào các kỳ tuyển sinh trước kỳ thi THPT Quốc gia cần đáp ứng các tiêu chí sau:
+- Kết quả học tập năm lớp 11 và 12 đạt học lực từ loại Khá trở lên (thí sinh ứng tuyển sớm chưa có kết quả học kỳ II lớp 12, sẽ nộp bảng điểm học kỳ I lớp 12 và kết quả học kỳ II sẽ được kiểm tra khi thí sinh nhập học)
+- Trung bình kết quả học tập các môn Toán, Vật lý, Hóa học, Sinh học và Tin học của năm lớp 11 và 12 đạt từ 6,5/10,0 trở lên.
+Các thí sinh đăng ký dự tuyển sau kỳ thi THPT Quốc gia cần đáp ứng các tiêu chí sau:
+- Kết quả học tập năm lớp 11 và 12 đạt học lực từ loại Khá trở lên
+- Trung bình kết quả học tập các môn Toán, Vật lý, Hóa học, Sinh học và Tin học của năm lớp 11 và 12 đạt từ 6,5/10,0 trở lên.
+- Tham dự kỳ thi THPT Quốc gia với tổ hợp 3 trong 5 môn: Toán, Lý, Hóa, Sinh, Tiếng Anh đạt từ điểm sàn của Trường</template>
+</category>
+<category><pattern>TIÊU CHÍ *</pattern>
+<template><srai>Tiêu chí tuyển sinh theo hình thức trực tiếp cho các kỳ tuyển sinh trước và sau kỳ thi THPT Quốc gia có khác nhau không?</srai></template>
+</category>
+<category><pattern>VIỆC ĐĂNG KÝ TUYỂN SINH VÀO TRƯỜNG CÓ ẢNH HƯỞNG ĐẾN VIỆC ĐĂNG KÝ NGUYỆN VỌNG VÀO CÁC TRƯỜNG ĐẠI HỌC KHÁC KHÔNG?</pattern>
+<template>SICT có hai phương thức tuyển sinh là: xét tuyển trực tiếp và xét kết quả kỳ thi THPT theo hệ thống thi tuyển sinh của Bộ GDĐT.
+Đối với hình thức nộp hồ sơ trực tiếp, việc đăng ký dự tuyển vào trường không ảnh hưởng tới các nguyện vọng vào các trường Đại học khác.
+Đối với hình thức xét tuyển qua hệ thống thi tuyển sinh của Bộ giáo dục đào tạo sử dụng kết quả thi THPT QG sẽ theo quy định chung của Bộ GDĐT</template>
+</category>
+<category><pattern>KẾT QUẢ TRÚNG TUYỂN VÀO TRƯỜNG *</pattern>
+<template>Kết quả trúng tuyển vào trường sẽ căn cứ vào 3 tiêu chí chính  sau:
+•	Hồ sơ: thành tích của các môn Toán, Lý, Hóa, Sinh, Tin qua học bạ, các giải thưởng, thành tích hoạt động, công tác xã hội,...
+•	Kiến thức các môn khoa học tự nhiên thông qua phỏng vấn trực tiếp với Hội đồng
+•	Động lực học tập và mức độ hiểu biết về ngành học, định hướng nghề nghiệp thông qua phỏng vấn trực tiếp với Hội đồng</template>
+</category>
+<category><pattern>*</pattern>
+<template>Tôi chưa có câu trả lời cho câu hỏi này !</template>
+</category>
+</aiml>

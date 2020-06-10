@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!--  -->
+<category><pattern>PHÍ GIỮ CHỖ *</pattern>
+<template>Phí giữ chỗ là 3.000.000 VNĐ đối các ngành học hệ đại học chính quy, trừ ngành Kỹ thuật hàng không.
+Phí giữ chỗ của ngành Hàng không là 6.000.000 VNĐ.
+Phí giữ chỗ sẽ không được hoàn trả lại, nếu trong trường hợp thí sinh trúng tuyển không nhập học và chỉ được bù trừ vào học phí của năm nhập học.</template>
+</category>
+<category><pattern>HỌC PHÍ CÁC KHÓA TIẾNG ANH</pattern>
+<template>Mọi thí sinh đã trúng tuyển vào trường đều là trúng tuyển chính thức.
+Chương trình tiếng Anh bổ trợ 10 tháng được triển khai từ năm học 2017-2018 nhằm mang đến nền tảng ngoại ngữ vững chắc cho những bạn sinh viên với kết quả tuyến sinh đạt các yêu cầu của chương trình đào tạo mà chưa đáp ứng về trình độ tiếng Anh  trước khi bước vào chương trình học chuyên môn bằng tiếng Anh của trường.
+•	Học phí của khóa tiếng Anh 2 tháng là: 5.500.000 VNĐ
+•	Học phí của khóa tiếng Anh 10 tháng là: 46.800.000 VNĐ</template>
+</category>
+</aiml>

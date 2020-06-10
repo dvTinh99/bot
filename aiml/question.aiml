@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!--  -->
+<category><pattern>* SỐ *</pattern>
+<template><random>
+				<li>một</li>
+				<li>hai</li>
+			</random></template>
+</category>
+<category><pattern>* LIÊN HỆ VỚI ĐỊA CHỈ NÀO *</pattern>
+<template>Mọi thắc mắc về tuyển sinh, xin vui lòng liên hệ tới Phòng Quản lý Đào tạo của trường.
+Email: admission@sict.edu.vn
+SĐT: 0243 791 7748 hoặc 08 88 55 77 48
+Địa chỉ: Nam Kì Khởi Nghĩa, Ngũ Hành Sơn, Đà Nẵng</template>
+</category>
+</aiml>
